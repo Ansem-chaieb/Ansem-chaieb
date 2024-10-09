@@ -4,6 +4,7 @@
 
 <h3>Things I code with</h3>
 <p>
+  
 ## Visualization
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
@@ -11,7 +12,7 @@
 ![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-## Backend & API Frameworks
+## API Frameworks
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
