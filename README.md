@@ -11,7 +11,6 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rasterio](https://img.shields.io/badge/-Rasterio-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Dash](https://img.shields.io/badge/-Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
