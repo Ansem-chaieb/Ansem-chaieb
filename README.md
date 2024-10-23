@@ -1,6 +1,6 @@
 <h1> 👋 Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ansem Chaieb, a passionate Data Scientistfrom <img src="tunisia.png" width="13"/> <b>Tunisia</b>,currently living in  <img src="netherlands.png" width="13"/> <b>Alphen den Rijn, Netherlands</b>. </p>
+<p>Welcome to my page! </br> I'm Ansem Chaieb, a passionate Data Scientist from <img src="tunisia.png" width="13"/> <b>Tunisia</b>,currently living in  <img src="netherlands.png" width="13"/> <b>Alphen den Rijn, Netherlands</b>. </p>
 
 <h3>Things I code with</h3>
 <p>
